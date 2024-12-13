@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alecc\\OneDrive\\Documents\\GitHub\\prog7311---programming-3a---poe-Aleccowan\\PROG7311_P2_ST10049180_ALEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0FC601-53D2-4200-9B2E-39E2451524E6}|PROG7311_P2_ST10049180_ALEC.csproj|c:\\users\\alecc\\onedrive\\documents\\github\\prog7311---programming-3a---poe-aleccowan\\prog7311_p2_st10049180_alec\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0FC601-53D2-4200-9B2E-39E2451524E6}|PROG7311_P2_ST10049180_ALEC.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0FC601-53D2-4200-9B2E-39E2451524E6}|PROG7311_P2_ST10049180_ALEC.csproj|c:\\users\\alecc\\onedrive\\documents\\github\\prog7311---programming-3a---poe-aleccowan\\prog7311_p2_st10049180_alec\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0FC601-53D2-4200-9B2E-39E2451524E6}|PROG7311_P2_ST10049180_ALEC.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alecc\\OneDrive\\Documents\\GitHub\\prog7311---programming-3a---poe-Aleccowan\\PROG7311_P2_ST10049180_ALEC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alecc\\OneDrive\\Documents\\GitHub\\prog7311---programming-3a---poe-Aleccowan\\PROG7311_P2_ST10049180_ALEC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T06:46:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alecc\\OneDrive\\Documents\\GitHub\\prog7311---programming-3a---poe-Aleccowan\\PROG7311_P2_ST10049180_ALEC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\alecc\\OneDrive\\Documents\\GitHub\\prog7311---programming-3a---poe-Aleccowan\\PROG7311_P2_ST10049180_ALEC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T06:45:33.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

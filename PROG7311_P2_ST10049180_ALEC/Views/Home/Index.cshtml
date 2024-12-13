@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            flex: 1;
+        }
+
+        .jumbotron {
+            padding: 30px 20px;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+            .jumbotron h1 {
+                font-size: 3em;
+                color: #333;
+            }
+
+            .jumbotron p {
+                font-size: 1.2em;
+                color: #666;
+            }
+
+        .features {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+
+        .feature {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            flex: 1 1 calc(33.333% - 40px);
+            margin: 20px 0;
+            text-align: center;
+        }
+
+            .feature h2 {
+                font-size: 1.5em;
+                color: #333;
+                margin-bottom: 10px;
+            }
+
+            .feature p {
+                color: #666;
+                font-size: 1em;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h1 class="display-4">Welcome to Agri-Energy Connect</h1>
+            <p class="lead">Discover a marketplace tailored for agricultural products and energy resources. Connect with fellow farmers, share your goods, and find what you need to enhance your farm's productivity.</p>
+            <hr class="my-4">
+            <p>Join a dynamic community of farmers. Exchange experiences, seek advice, and support each other in promoting sustainable farming practices.</p>
+        </div>
+
+        <div class="features">
+            <div class="feature">
+                <h2>Showcase Your Products</h2>
+                <p>Effortlessly list your agricultural products for others to view and purchase. Expand your market by connecting with buyers.</p>
+            </div>
+            <div class="feature">
+                <h2>Find New Supplies</h2>
+                <p>Explore a variety of products from other farmers. Discover new seeds, tools, and energy resources to boost your farming operations.</p>
+            </div>
+            <div class="feature">
+                <h2>Be Part of a Community</h2>
+                <p>Engage with a lively community of farmers. Share knowledge, seek advice, and support each other in sustainable farming initiatives.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

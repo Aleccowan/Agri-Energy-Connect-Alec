@@ -1,0 +1,4 @@
+Admin details:
+
+email: admin@gmail.com
+password: Admin@100
